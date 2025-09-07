@@ -1,7 +1,7 @@
 # VamsiKrishna-05-github.io
 # 👨‍💻 Vamsi Krishna B - Professional Portfolio
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/9d914fe6086cf45e161d77fd95d38403/053d4be8-eba0-496e-a4a3-085d4996f3ef/index.html)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blue?style=for-the-badge)](https://vamsikrishna-05.github.io/VamsiKrishna-05-github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vamsi-krishna-901180269)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/VamsiKrishna-05)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:vamsi262005@gmail.com)
